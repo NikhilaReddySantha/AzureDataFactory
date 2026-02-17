@@ -1,0 +1,9 @@
+{
+	"name": "AzureDFProjectNikhila",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "b524f2d0-1d6e-4b0e-8f64-05c1f7f06e7a",
+		"tenantId": "41f88ecb-ca63-404d-97dd-ab0a169fd138"
+	}
+}
